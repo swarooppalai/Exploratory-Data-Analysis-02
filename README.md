@@ -1,2 +1,2 @@
-# airline_data
+# Airline Data Exploratory Data Analysis(EDA)
 This code performs comprehensive data analysis on an airlines dataset using SQL and Python, exploring aspects such as seat occupancy rates, revenue trends over time, and average charges for different fare conditions on each aircraft. Visualizations, including line and bar charts, are utilized to provide insights into the dataset's key features and enable strategic decision-making for optimizing aircraft occupancy and pricing.
